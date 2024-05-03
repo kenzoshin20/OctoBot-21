@@ -1,7 +1,7 @@
 // Assume initialConfig is set based on the server's configuration
     let initialConfig = {
       autoRestart: {
-        status: false,
+        status: true,
         time: 40,
         note: 'BOT IS ABOUT TO RESTART',
       },
